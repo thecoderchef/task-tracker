@@ -27,7 +27,7 @@ const AddTask = () => {
         //onSubmit={onSubmit}
         >
       <div className='form-control'>
-        <label>Task</label>
+        <label>Task.</label>
         <input
           type='text'
           placeholder='Add Task'
